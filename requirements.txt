@@ -1,0 +1,6 @@
+gevent==1.0
+greenlet==0.4.2
+msgpack-python==0.4.2
+pyzmq==13.1.0
+wsgiref==0.1.2
+zerorpc==0.4.4
